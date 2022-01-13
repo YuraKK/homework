@@ -2,7 +2,7 @@ body{
     margin: 0;
 }
 
-.target {
+.target1 {
     background: silver;
     height: 300px;
     width: 200px;
@@ -14,10 +14,101 @@ body{
     padding-right: 10px;
     border-left: 10px solid chocolate;
     border-radius: 20px;
-    margin: 0px auto;
+    margin: 10px auto;
 
     box-shadow: black 10px 10px 10px 10px;
 }
-target:hover {
+.target1:hover {
     height: 500px;
+}
+
+body{
+    margin: 0;
+
+}
+.target{
+    background: burlywood;
+    width: 210px;
+    height: 300px;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding-bottom: 20px;
+    padding-left: 17px;
+    padding-top: 13px;
+    padding-right: 7px;
+    border-left: 20px solid royalblue;
+    border-radius: 20px;
+    margin: 10px auto;
+
+    box-shadow: red 30px 23px 3px 30px;
+
+
+}
+body{
+    margin: 0;
+}
+.range{
+    background: gold;
+    width: 210px;
+    height: 300px;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    border-left: 20px solid green;
+    border-radius: 50%;
+
+
+}
+body{
+    margin: 0;
+
+}
+.Tolik{
+
+    background-color: green;
+    background: yellow;
+    overflow: hidden;
+    height: 300px;
+    width: 170px;
+    box-sizing: border-box;
+    padding-right: 30px;
+    padding-left: 20px;
+    border-left: 30px solid gray;
+    border-radius: 20%;
+
+
+}
+body{
+    margin: 0;
+}
+.My-CLass{
+    backface-visibility: hidden;
+    background: red;
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+body{
+    margin: 0;
+
+}
+.Last\.Word{
+
+    background: palevioletred;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 20px;
+    border-radius: 20%;
+    margin: 10px auto;
+box-shadow: burlywood 10px 20px 30px 30px;
+
 }
