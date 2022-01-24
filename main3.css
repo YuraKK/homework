@@ -1,0 +1,54 @@
+.height300 {
+
+    height: 300px;
+}
+.wight850 {
+    width: 850px;
+
+}
+
+.height_big_500 {
+
+    height: 500px;
+
+}
+
+.wight_small {
+
+    width: 100px;
+}
+
+.height_small {
+
+    height: 150px;
+
+}
+.color_small_boxes {
+
+    background: darkviolet;
+    margin: 8px;
+}
+.color_Large_box {
+
+    background: darkgoldenrod;
+
+}
+.color_bug_box {
+
+    background: blue;
+    margin: 10px;
+}
+.center{
+    justify-content: center;
+}
+
+.text_center {
+
+    text-align: center;
+
+}
+.constanta {
+    display: flex;
+    justify-content: left;
+
+}

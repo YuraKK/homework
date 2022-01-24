@@ -1,0 +1,56 @@
+.container {
+   display: flex;
+    justify-content: center;
+}
+
+.Spirit {
+    background: red;
+    margin: 5px;
+    width: 1200px;
+    height: 100px;
+    padding: 10px 10px 10px 10px;
+
+
+}
+.Abadon {
+    height: 400px;
+    width: 400px;
+    background: silver;
+    text-align: center;
+    margin: 10px;
+
+}
+.Heig_Wigh_200{
+
+    height: 200px;
+    width: 200px;
+    margin: 15px;
+    background: burlywood;
+    padding: 12px 12px 12px 12px;
+
+
+}
+.Heigh-Wight-10x1{
+    height: 800px;
+    width: 300px;
+    background: blue;
+    text-align: center;
+    margin: 20px;
+
+}
+.Two_blocks{
+background: black;
+    flex-direction: column;
+    padding: 20px;
+    height: 800px;
+    width: 300px;
+
+}
+.Pos1{
+   margin: 10px;
+    background: blueviolet;
+    height: 340px;
+    width: 290px;
+
+
+}
