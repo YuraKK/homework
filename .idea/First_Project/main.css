@@ -100,3 +100,76 @@
     margin: 15px 29px;
 
 }
+
+.h2-text
+{
+    margin-top: 445px;
+    height: 96px;
+    width: 547px;
+    border: 2px solid #000;
+    margin-left: 447px;
+}
+.style-number-3 {
+    font-family: 'Montserrat', sans-serif;
+}
+.all-marks {
+    margin-top: 59px;
+    margin-left: 174px;
+    height: 200px;
+    width: 1092px;
+    column-count: 5;
+    grid-column-gap: 82px;
+}
+.Bicycle {
+    margin-top: 56px;
+}
+
+.Charakter {
+    width: 1376px;
+    height: 494px;
+    margin-left: 32px;
+    margin-top: 192px;
+    background: #52cebc;
+}
+.Roman {
+    width: 557px;
+    height: 120px;
+    margin-top: -380px;
+    margin-left: 730px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 34px;
+    line-height: 40px;
+    /* or 118% */
+    letter-spacing: 0.34px;
+}
+.Kloun {
+    width: 533px;
+    height: 64px;
+    font-size: 22px;
+    line-height: 32px;
+    margin-left: 730px;
+    margin-top: 35px;
+    font-family: 'Roboto', sans-serif;
+}
+.Text-Style {
+    height: 80px;
+    width: 711px;
+    margin-top: 352px;
+    margin-left: 445px;
+    font-size: 34px;
+    line-height: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+.image-fon {
+    margin-top: 57px;
+    margin-left: 265px;
+}
+.new-class {
+    width: 163px;
+    height: 54px;
+    background: #f9c602;
+    margin-top: 113px;
+    margin-left: 638px;
+    border: none;
+    border-radius: 4px;
+}
